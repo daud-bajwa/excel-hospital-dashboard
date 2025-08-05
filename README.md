@@ -68,13 +68,6 @@ If you're interested in **data visualization**, **healthcare analytics**, or Exc
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/muhammad-daud-726b0a295/)  
 ⭐ Star this repo if you liked it!
 
----
-
-## 📄 License
-
-This project is open-source under the [MIT License](LICENSE).
-
----
 
 > 🔁 Reusable | 📊 Insightful | 💡 Excel-Powered
 
