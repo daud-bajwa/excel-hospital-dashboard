@@ -2,7 +2,8 @@
 
 Welcome to the **Hospital Emergency Room Monthly Report Dashboard** – a data visualization project designed entirely in **Microsoft Excel**. This dashboard transforms raw healthcare data into **insightful visuals** to support decision-making in emergency departments.
 
-![Dashboard Screenshot](https://www.linkedin.com/posts/muhammad-daud-726b0a295_exceldashboard-dataanalytics-healthcaredata-activity-7358438010884902915-P46x?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEeIm44BJTyW5Wf-3DngYjQl6jK7EzWVDSA)
+![Dashboard Screenshot]<img width="1546" height="679" alt="Screenshot 2025-08-05 150210" src="https://github.com/user-attachments/assets/90aebad8-a0d9-41db-a097-9377e3ef99fe" />
+().
 
 ---
 
@@ -30,19 +31,7 @@ This project visualizes monthly statistics from a hospital's emergency room. It 
 - 🧭 **Patient Flow & Department Referrals**
 - 🕒 **On-time vs Delayed Visit Trends**
 
----
 
-## 📷 Sample Dashboards
-
-### 📅 March Report  
-![March Dashboard](https://www.linkedin.com/posts/muhammad-daud-726b0a295_exceldashboard-dataanalytics-healthcaredata-activity-7358438010884902915-P46x?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEeIm44BJTyW5Wf-3DngYjQl6jK7EzWVDSA)
-
-### 📅 April Report  
-![April Dashboard](insert-image-url)
-
-> Feel free to explore the `.xlsx` files inside the `/reports` folder.
-
----
 
 ## 🛠️ Tools Used
 
